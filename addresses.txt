@@ -60,8 +60,3 @@ Guita-USDC
 
 guita-safe(DAO)
 0x4606A71dAe9061D2167C993B13bE385F16613376
-
-https://safe.fantom.network/#/safes/0x4606A71dAe9061D2167C993B13bE385F16613376/balances
-
-real DAO
-https://safe.fantom.network/#/safes/0x9223138921C1E5b33ac88C31C61C6C5C1cFcA9FB/balances
