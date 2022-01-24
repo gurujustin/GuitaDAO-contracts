@@ -1,10 +1,3 @@
-/**
- *Submitted for verification at FtmScan.com on 2021-11-08
-*/
-
-/**
- *Submitted for verification at Etherscan.io on 2021-05-28
-*/
 
 /**
  * fix the K value calculation when reserve0 and reserve1 small in decimals
